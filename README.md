@@ -30,13 +30,13 @@ In this episode, we covered:
 
 [Watch Episode 2](https://www.youtube.com/watch?v=zLYnLxSVIbg)
 
-## Episode 3 - Stylying the Application with Bulma
+## Episode 3 -App Factory, Configuration, and Blueprints
 
 In this episode, we covered:
 
-- The need for a CSS Framework
-- Introduction to Bulma CSS
-- Adding Bulma to the Flask application
-- Making basic layout and styling changes
+- Refactoring the app to use the App Factory pattern
+- Handling app configuration for deployment, testing, and production
+- Segmenting and organizing the app with Blueprints
+
 
 [Watch Episode 3]()
